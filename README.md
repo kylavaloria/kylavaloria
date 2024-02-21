@@ -15,7 +15,7 @@
 
 ### 🌷 Connect with Me
 <a href="https://kylamaevaloria.framer.wiki/?fbclid=IwAR2cEBCerm8HThDL9E6O8LzMPOjCfvE9uURWJCnBwjmYgGC2kbCEhvfmBkU" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Website" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/513202/globe-2.svg"/>
+  <img align="left" alt="Website" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/500876/globe.svg"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kylamaevaloria/" target="_blank" rel="noopener noreferrer">
