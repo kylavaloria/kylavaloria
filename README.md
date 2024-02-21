@@ -44,10 +44,11 @@
 #
 
 ### 🫀 Stats
-
-![Kyla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=omni)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kylavaloria&&theme=omni)
-![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kylavaloria&show_icons=true&locale=en&layout=compact&theme=omni)
+<div class="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=omni" alt="Kyla's GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylavaloria&&theme=omni" alt="GitHub Streak">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kylavaloria&show_icons=true&locale=en&layout=compact&theme=omni" alt="Github Top Languages">
+</div>
 
 #
 
