@@ -17,7 +17,7 @@
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
 <img align="left" alt="Medium" width="30px" style="padding-right:10px;" src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png"/>
 
-</br>
+</br></br>
 
 #
 
