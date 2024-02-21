@@ -45,9 +45,9 @@
 
 ### 🫀 Stats
 
-![Kyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=omni)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kylavaloriat&theme=gruvbox&border_radius=4.5) -->
+![Kyla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=omni)
+[GitHub Streak](https://streak-stats.demolab.com?user=kylavaloriat&theme=omni&border_radius=4.5)
+[Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kylavaloria&show_icons=true&locale=en&layout=compact&theme=omni)
 
 #
 
