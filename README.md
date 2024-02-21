@@ -1,16 +1,61 @@
-### Hi there 👋
+# 💌 Hi, I'm Kyla Mae Valoria
 
-<!--
-**kylavaloria/kylavaloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst (Developer/Graphic Designer/Photographer)`**
 
-Here are some ideas to get you started:
+   • 🍓 I'm a sophomore, studying Bachelor of Science in Computer Science at Polytechnic University of the Philippines
+   • 🧷 From Alaminos City, Pangasinan, Philippines
+   • 🎀 I'm currently working on Java system development projects
+   • 🦢 I'm looking to collaborate with future projects and hackathons
+   • 🧸 I'm interested in data analytics, web development, project management, and startups
+   • 🍄 My hobbies are traveling, scrolling on Reddit, photography, and graphic design
+   • 🧚‍♀️ Fun fact: I'm obsessed with MBTI, BTW I'm an INTJ-T 3w4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌷 Connect with Me
+[![website](./img/globe-light.svg)](https://kylamaevaloria.framer.wiki/?fbclid=IwAR1pSW9IaUGiRKAK4POjIEU_6-p8-nMz8twNyNXI4mea4Cl1GbciH7gNeds#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://kylamaevaloria.framer.wiki/?fbclid=IwAR1pSW9IaUGiRKAK4POjIEU_6-p8-nMz8twNyNXI4mea4Cl1GbciH7gNeds#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kylamaevaloria/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kylamaevaloria/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/kylaadoscope/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/kylaadoscope/#gh-dark-mode-only)
+
+### 🏹 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="MariaDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" />
+<br />
+
+#
+
+### 🫀 Stats
+
+![Kyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kylavaloriat&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
+      I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, Google Developer Students Club - PUP, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. 
+      Furthermore, I have been awarded certification from Project SPARTA PH in partnership with the Department of Science and Technology and Analytics Association of the Philippines under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
+      Moreover, I gained practical experience as a tech intern at Aqwire on backend development. I was also able to work with PUP The Programmers' Guild as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.
+      Currently pursuing a Bachelor of Science in Computer Science at the Polytechnic University of the Philippines, Manila (PUP-Manila), I aim to develop my knowledge and skills further. 
