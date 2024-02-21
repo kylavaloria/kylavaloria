@@ -44,11 +44,12 @@
 
 ### 🫀 Stats
 
-![Kyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=gruvbox)
+![Kyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylavaloria&show_icons=true&theme=omni)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kylavaloriat&theme=gruvbox&border_radius=4.5) -->
 
 #
+
 <details>
  <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
       I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, Google Developer Students Club - PUP, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
