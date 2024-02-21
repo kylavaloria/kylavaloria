@@ -14,9 +14,6 @@
 
 ### 🌷 Connect with Me
 <img align="left" alt="LinkedIn" width="30px" link="https://www.linkedin.com/in/kylamaevaloria/" style="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-
-
-
 <br />
 
 ### 🏹 Languages and Tools
