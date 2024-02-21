@@ -2,12 +2,12 @@
 
 **`Data Analyst (Developer/Graphic Designer/Photographer)`**
 
-   • 🍓 I'm a sophomore, studying Bachelor of Science in Computer Science at Polytechnic University of the Philippines </br>
+   • 🍓 A sophomore, studying Bachelor of Science in Computer Science at Polytechnic University of the Philippines </br>
    • 🧷 From Alaminos City, Pangasinan, Philippines </br>
-   • 🎀 I'm currently working on Java system development projects </br>
-   • 🦢 I'm looking to collaborate with future projects and hackathons </br>
-   • 🧸 I'm interested in data analytics, web development, project management, and startups </br>
-   • 🍄 My hobbies are traveling, scrolling on Reddit, photography, and graphic design </br>
+   • 🎀 Currently working on Java system development projects </br>
+   • 🦢 Looking to collaborate with future projects and hackathons </br>
+   • 🧸 Interested in data analytics, web development, project management, and startups </br>
+   • 🍄 Hobbies are traveling, scrolling on Reddit, photography, and graphic design </br>
    • 🧚‍♀️ Fun fact: I'm obsessed with MBTI, BTW I'm an INTJ-T 3w4 </br>
 
 ---
@@ -52,7 +52,6 @@
 
 <details>
  <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
-      I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, Google Developer Students Club - PUP, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
-      Furthermore, I have been awarded certification from Project SPARTA PH in partnership with the Department of Science and Technology and Analytics Association of the Philippines under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
-      Moreover, I gained practical experience as a tech intern at Aqwire on backend development. I was also able to work with PUP The Programmers' Guild as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.</br></br>
-      Currently pursuing a Bachelor of Science in Computer Science at the Polytechnic University of the Philippines, Manila (PUP-Manila), I aim to develop my knowledge and skills further. 
+      I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, <b>Google Developer Students Club - PUP</b>, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
+      Furthermore, I have been awarded certification from <b>Project SPARTA PH</b> in partnership with the <b>Department of Science and Technology and Analytics Association of the Philippines</b> under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
+      Moreover, I gained practical experience as a tech intern at <b>Aqwire</b> on backend development. I was also able to work with <b>PUP The Programmers' Guild</b> as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.
