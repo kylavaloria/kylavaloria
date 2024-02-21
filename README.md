@@ -13,7 +13,9 @@
 ---
 
 ### 🌷 Connect with Me
-<img align="left" alt="LinkedIn" width="30px" link="" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/>
+<img align="left" alt="LinkedIn" width="30px" link="https://www.linkedin.com/in/kylamaevaloria/" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/>
+
+<br />
 
 ### 🏹 Languages and Tools
 
