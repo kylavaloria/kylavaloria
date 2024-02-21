@@ -14,7 +14,7 @@
 ---
 
 ### 🌷 Connect with Me
- <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
 <img align="left" alt="Medium" width="30px" style="padding-right:10px;" src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png"/>
 </br>
@@ -53,6 +53,7 @@
 
 <details>
  <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
+<img align="right" alt="Train" width="30px" style="padding-right:10px;" src="<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>"/>
       I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, <b>Google Developer Students Club - PUP</b>, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
       Furthermore, I have been awarded certification from <b>Project SPARTA PH</b> in partnership with the <b>Department of Science and Technology and Analytics Association of the Philippines</b> under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
       Moreover, I gained practical experience as a tech intern at <b>Aqwire</b> on backend development. I was also able to work with <b>PUP The Programmers' Guild</b> as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.
