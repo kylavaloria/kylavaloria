@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/59/b8/c8/59b8c8622c076c5dc7bac0dd591c712c.gif)](https://rishavchanda.io)
+[![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-d608adc6f9.gif)]
 # 💌 Hi, I'm Kyla Mae Valoria
 
 **`Data Analyst (Developer/Graphic Designer/Photographer)`**
