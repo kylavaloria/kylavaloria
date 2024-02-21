@@ -1,4 +1,4 @@
-(https://s3.ezgif.com/tmp/ezgif-3-81296e3b35.gif)
+!MASTERHEAD(https://s3.ezgif.com/tmp/ezgif-3-81296e3b35.gif)
 # 💌 Hi, I'm Kyla Mae Valoria
 
 **`Data Analyst (Developer/Graphic Designer/Photographer)`**
