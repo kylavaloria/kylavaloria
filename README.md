@@ -14,7 +14,7 @@
 ---
 
 ### 🌷 Connect with Me
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" target="https://www.linkedin.com/in/kylamaevaloria/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452229/instagram-1.svg"/>
 <img align="left" alt="Medium" width="30px" style="padding-right:10px;" src="https://www.underconsideration.com/brandnew/archives/medium_2017_monogram.png"/>
 </br>
