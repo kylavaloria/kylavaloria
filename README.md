@@ -66,7 +66,7 @@
 
 <details>
  <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
-<img align="right" alt="Train" width="300" length="300" src="https://i.pinimg.com/originals/25/6e/db/256edb9551b979d82194c5a454b3e126.gif" /> 
+<img align="right" alt="Train" width="300" length="300" src=https://i.pinimg.com/originals/a8/dc/11/a8dc11f39a3113401c0d43667c209d9c.gif" /> 
       I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, <b>Google Developer Students Club - PUP</b>, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
       Furthermore, I have been awarded certification from <b>Project SPARTA PH</b> in partnership with the <b>Department of Science and Technology and Analytics Association of the Philippines</b> under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
       Moreover, I gained practical experience as a tech intern at <b>Aqwire</b> on backend development. I was also able to work with <b>PUP The Programmers' Guild</b> as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.
