@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-f043cf06aa.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/db/e3/da/dbe3da5acbd6544e87d13d8b1e2b7fc8.gif)](https://rishavchanda.io)
 # 💌 Hi, I'm Kyla Mae Valoria
 
 **`Data Analyst (Developer/Graphic Designer/Photographer)`**
@@ -14,7 +14,7 @@
 ---
 
 ### 🌷 Connect with Me
-<a href="https://kylamaevaloria.framer.wiki/?fbclid=IwAR2cEBCerm8HThDL9E6O8LzMPOjCfvE9uURWJCnBwjmYgGC2kbCEhvfmBkU" target="_blank" rel="noopener noreferrer">
+<a href="https://bit.ly/42Q4A98" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Website" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/513202/globe-2.svg"/>
 </a>
 
@@ -66,7 +66,7 @@
 
 <details>
  <summary><h3>🪐 Kyla's Tech Journey</h3></summary>
-<img align="right" alt="Train" width="300" src="https://s3.ezgif.com/tmp/ezgif-3-2df9af5f89.gif" /> 
+<img align="right" alt="Train" width="300" length="300" src="https://i.pinimg.com/originals/25/6e/db/256edb9551b979d82194c5a454b3e126.gif" /> 
       I aspire to be a data analyst as I solve real-world problems with the power of data. Finding outliers, spotting trends, and concluding patterns unleash the  innovator in me. My analytics experience comes from our school organization, <b>Google Developer Students Club - PUP</b>, where I lead a team in a machine learning project, and make dashboards for engagements. I am also passionate about studying analytics, attending professional training by DataSense Analytics, and creating dashboards out of it. </br></br>
       Furthermore, I have been awarded certification from <b>Project SPARTA PH</b> in partnership with the <b>Department of Science and Technology and Analytics Association of the Philippines</b> under the Data Analyst Pathway. On this journey, I was able to leverage my analytics skills through capstones, research papers, and dashboards.
       Moreover, I gained practical experience as a tech intern at <b>Aqwire</b> on backend development. I was also able to work with <b>PUP The Programmers' Guild</b> as a graphic designer. Lastly, as a hobby, I volunteer as a photographer in tech events.
